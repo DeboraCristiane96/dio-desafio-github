@@ -1,0 +1,18 @@
+
+	O Git Bash é o aplicativo para ambientes do Microsoft Windows 
+ que oferece a camada de emulação para a experiência de linha de comando Git.
+ Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais
+ usados como interface em sistemas operacionais por meio de comandos gravados.
+
+Comandos Básicos: 
+
+	git clone: Para colar o repositório criado no gitHub na sua máquina.
+        git init: Caso você esteja iniciando o monitoramento de um projeto existente com Git.
+        git add: Nesse caso você estará adicionando alterações no se projeto.
+        git status: Verificação de estados dos arquivos.
+        git diff: mostra as linhas exatas que foram adicionadas e removidas.
+        git commit: Armazena o conteúdo atual do índice em um novo commit, juntamente com uma mensagem
+        de registro do usuário que descreve as mudanças.
+        git reset: utilizado para desfazer as modificações.
+        git rm: Para remover um arquivo do Git. exemplo:git rm -f {arquivo}
+        git mv: usado para mover os arquivos. exemplo: git mv arquivo_origem arquivo_destino
